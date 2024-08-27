@@ -1,5 +1,7 @@
 # What is this?
-Plot2Title is my final project for Natural Language Processing at Northeastern. It is a tool for building and testing AIs (specifically, encoder-decoder RNNs) to predict movie titles based on movie summaries. For example, you could give a model a summary of the movie *The Matrix*, and the model would hopefully output "The Matrix."
+Plot2Title is my final project for Natural Language Processing at Northeastern University. It is a tool for building and testing AIs (specifically, encoder-decoder RNNs) to predict movie titles based on movie summaries. For example, you could give a model a summary of the movie *The Matrix*, and the model would hopefully output "The Matrix."
+
+For details, and a report on the models' performance on real movie summaries, see final-report.pdf, my write-up for the project.
 
 # How do I use it?
 
